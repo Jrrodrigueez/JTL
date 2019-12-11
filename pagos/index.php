@@ -49,7 +49,7 @@ if(!empty($_SESSION['active']))
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Login | Sistema Facturación</title>
+	<title>JTL | Sistema Facturación</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
